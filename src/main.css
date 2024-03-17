@@ -1,0 +1,22 @@
+.header1 {
+    font-size: 25px;
+    color: #16624F;
+}
+
+.img1 {
+
+    width: 300px
+}
+
+.paragraph {
+    font-size: 16px;
+}
+
+.btn-next {
+    border-radius: 25px !important;
+    background-color: white;
+    font-weight: bold;
+    font-size: 25px;
+    color: #16624F;
+
+}

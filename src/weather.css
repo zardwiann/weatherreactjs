@@ -1,0 +1,32 @@
+
+*{
+     font-family: 'Times New Roman', Times, serif;
+}
+input{
+     border-radius: 25px !important;
+     padding: 10px !important;
+
+}
+.city-name {
+    margin-top: 3cm;
+}
+.header2{
+     font-size: 50px;
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+}
+ 
+.date{
+    font-family: 'Times New Roman', Times, serif;
+}
+.clouds {
+     height: 150px;
+}
+.temp{
+     font-size: 60px;
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+}
+.weatherapp{
+     background-color: none;
+}
